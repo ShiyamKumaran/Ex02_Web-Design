@@ -46,7 +46,8 @@
 ```
 
 ## OUTPUT
-![2023-04-02](https://user-images.githubusercontent.com/127816458/230943809-841c61e9-2f80-4b92-892f-173818404e08.png)
+![2023-04-02](https://user-images.githubusercontent.com/127816458/230944109-e6bad134-f4c9-4768-9363-e3951bb71318.png)
+ 
 
 
 ## RESULT
